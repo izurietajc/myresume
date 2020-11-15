@@ -1,0 +1,23 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "resume": "resume"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izurietajc/myresume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izurietajc/myresume/issues"
+  },
+  "homepage": "https://github.com/izurietajc/myresume#readme",
+  "dependencies": {
+    "resume-cli": "^2.0.0"
+  }
+}
